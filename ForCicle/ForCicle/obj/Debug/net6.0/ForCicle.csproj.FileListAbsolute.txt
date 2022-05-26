@@ -1,0 +1,15 @@
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\bin\Debug\net6.0\ForCicle.exe
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\bin\Debug\net6.0\ForCicle.deps.json
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\bin\Debug\net6.0\ForCicle.runtimeconfig.json
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\bin\Debug\net6.0\ForCicle.dll
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\bin\Debug\net6.0\ForCicle.pdb
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ForCicle.csproj.AssemblyReference.cache
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ForCicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ForCicle.AssemblyInfoInputs.cache
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ForCicle.AssemblyInfo.cs
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ForCicle.csproj.CoreCompileInputs.cache
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ForCicle.dll
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\refint\ForCicle.dll
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ForCicle.pdb
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ForCicle.genruntimeconfig.cache
+C:\Users\jhord\Desktop\c#\ForCicle\ForCicle\obj\Debug\net6.0\ref\ForCicle.dll

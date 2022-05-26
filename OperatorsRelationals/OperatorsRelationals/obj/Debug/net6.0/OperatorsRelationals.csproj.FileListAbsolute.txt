@@ -1,0 +1,15 @@
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\OperatorsRelationals.csproj.AssemblyReference.cache
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\OperatorsRelationals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\OperatorsRelationals.AssemblyInfoInputs.cache
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\OperatorsRelationals.AssemblyInfo.cs
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\OperatorsRelationals.csproj.CoreCompileInputs.cache
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\bin\Debug\net6.0\OperatorsRelationals.exe
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\bin\Debug\net6.0\OperatorsRelationals.deps.json
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\bin\Debug\net6.0\OperatorsRelationals.runtimeconfig.json
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\bin\Debug\net6.0\OperatorsRelationals.dll
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\bin\Debug\net6.0\OperatorsRelationals.pdb
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\OperatorsRelationals.dll
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\refint\OperatorsRelationals.dll
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\OperatorsRelationals.pdb
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\OperatorsRelationals.genruntimeconfig.cache
+C:\Users\jhord\Desktop\c#\OperatorsRelationals\OperatorsRelationals\obj\Debug\net6.0\ref\OperatorsRelationals.dll

@@ -1,0 +1,15 @@
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\bin\Debug\net6.0\ListProgramExample.exe
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\bin\Debug\net6.0\ListProgramExample.deps.json
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\bin\Debug\net6.0\ListProgramExample.runtimeconfig.json
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\bin\Debug\net6.0\ListProgramExample.dll
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\bin\Debug\net6.0\ListProgramExample.pdb
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ListProgramExample.csproj.AssemblyReference.cache
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ListProgramExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ListProgramExample.AssemblyInfoInputs.cache
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ListProgramExample.AssemblyInfo.cs
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ListProgramExample.csproj.CoreCompileInputs.cache
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ListProgramExample.dll
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\refint\ListProgramExample.dll
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ListProgramExample.pdb
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ListProgramExample.genruntimeconfig.cache
+C:\Users\jhord\Desktop\c#\ListProgramExample\ListProgramExample\obj\Debug\net6.0\ref\ListProgramExample.dll

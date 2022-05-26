@@ -1,0 +1,15 @@
+C:\Users\jhord\Desktop\c#\RND--\RND--\bin\Debug\net6.0\RND--.exe
+C:\Users\jhord\Desktop\c#\RND--\RND--\bin\Debug\net6.0\RND--.deps.json
+C:\Users\jhord\Desktop\c#\RND--\RND--\bin\Debug\net6.0\RND--.runtimeconfig.json
+C:\Users\jhord\Desktop\c#\RND--\RND--\bin\Debug\net6.0\RND--.dll
+C:\Users\jhord\Desktop\c#\RND--\RND--\bin\Debug\net6.0\RND--.pdb
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\RND--.csproj.AssemblyReference.cache
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\RND--.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\RND--.AssemblyInfoInputs.cache
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\RND--.AssemblyInfo.cs
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\RND--.csproj.CoreCompileInputs.cache
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\RND--.dll
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\refint\RND--.dll
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\RND--.pdb
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\RND--.genruntimeconfig.cache
+C:\Users\jhord\Desktop\c#\RND--\RND--\obj\Debug\net6.0\ref\RND--.dll

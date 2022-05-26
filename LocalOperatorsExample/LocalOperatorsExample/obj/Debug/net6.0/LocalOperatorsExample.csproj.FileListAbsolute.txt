@@ -1,0 +1,15 @@
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\bin\Debug\net6.0\LocalOperatorsExample.exe
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\bin\Debug\net6.0\LocalOperatorsExample.deps.json
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\bin\Debug\net6.0\LocalOperatorsExample.runtimeconfig.json
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\bin\Debug\net6.0\LocalOperatorsExample.dll
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\bin\Debug\net6.0\LocalOperatorsExample.pdb
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\LocalOperatorsExample.csproj.AssemblyReference.cache
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\LocalOperatorsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\LocalOperatorsExample.AssemblyInfoInputs.cache
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\LocalOperatorsExample.AssemblyInfo.cs
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\LocalOperatorsExample.csproj.CoreCompileInputs.cache
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\LocalOperatorsExample.dll
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\refint\LocalOperatorsExample.dll
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\LocalOperatorsExample.pdb
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\LocalOperatorsExample.genruntimeconfig.cache
+C:\Users\jhord\Desktop\c#\LocalOperatorsExample\LocalOperatorsExample\obj\Debug\net6.0\ref\LocalOperatorsExample.dll

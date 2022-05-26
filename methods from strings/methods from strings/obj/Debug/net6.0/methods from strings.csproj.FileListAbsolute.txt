@@ -1,0 +1,15 @@
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\bin\Debug\net6.0\methods from strings.exe
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\bin\Debug\net6.0\methods from strings.deps.json
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\bin\Debug\net6.0\methods from strings.runtimeconfig.json
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\bin\Debug\net6.0\methods from strings.dll
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\bin\Debug\net6.0\methods from strings.pdb
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\methods from strings.csproj.AssemblyReference.cache
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\methods from strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\methods from strings.AssemblyInfoInputs.cache
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\methods from strings.AssemblyInfo.cs
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\methods from strings.csproj.CoreCompileInputs.cache
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\methods from strings.dll
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\refint\methods from strings.dll
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\methods from strings.pdb
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\methods from strings.genruntimeconfig.cache
+C:\Users\jhord\Desktop\c#\methods from strings\methods from strings\obj\Debug\net6.0\ref\methods from strings.dll
